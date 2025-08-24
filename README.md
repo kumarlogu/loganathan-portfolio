@@ -80,4 +80,3 @@ Give a ⭐ if you like this website!
 - [LinkedIn](https://www.linkedin.com/in/loganathan-k-kumar-8a2016282)  
 - [Instagram](https://www.instagram.com/loganathan___k)  
 
-<a href="https://www.buymeacoffee.com/kumarlogu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
